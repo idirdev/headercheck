@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/headercheck",
+  "version": "1.0.0",
+  "description": "Analyze HTTP security headers on a URL",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/headercheck.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "headercheck": "bin/cli.js"
+  }
+}
