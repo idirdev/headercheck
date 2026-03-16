@@ -18,5 +18,9 @@
   },
   "bin": {
     "headercheck": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/headercheck",
+  "bugs": {
+    "url": "https://github.com/idirdev/headercheck/issues"
   }
 }
